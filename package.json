@@ -1,11 +1,9 @@
 {
-  "name": "twilioquest-extension",
-  "description": "This is a demo extension for TwilioQuest.",
+  "name": "twilioquest-twilio-vr",
+  "description": "This is a TwilioQuest extension for the Twilio VR content.",
   "version": "0.0.1",
   "engines": {
     "twilioquest": "3.1.44"
   },
-  "dependencies": {
-    "ramda": "^0.27.1"
-  }
+  "dependencies": {}
 }
