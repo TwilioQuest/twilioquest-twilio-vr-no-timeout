@@ -1,0 +1,22 @@
+{
+  "title": "Twilio Fundamentals: Account Setup",
+  "description": "Allow TwilioQuest to validate your progress for Twilio API challenges using your Twilio account credentials.",
+  "validation_fields": [
+    {
+      "name": "accountSid",
+      "type": "text",
+      "placeholder": "ACxxx",
+      "label": "Your Twilio account SID:"
+    },
+    {
+      "name": "authToken",
+      "type": "password",
+      "placeholder": "",
+      "label": "Your Twilio auth token:"
+    }
+  ],
+  "rewards": {
+    "xp": 200,
+    "items": ["operator_armor_body"]
+  }
+}

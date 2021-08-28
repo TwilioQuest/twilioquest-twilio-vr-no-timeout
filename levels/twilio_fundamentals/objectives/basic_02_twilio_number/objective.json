@@ -1,0 +1,16 @@
+{
+  "title": "Twilio Fundamentals: Get a Number",
+  "description": "Using the Twilio console, obtain a programmable phone number.",
+  "validation_fields": [
+    {
+      "name": "phoneNumber",
+      "type": "text",
+      "placeholder": "+16518675309",
+      "label": "Enter your Twilio phone number, in E.164 format:"
+    }
+  ],
+  "rewards": {
+    "xp": 200,
+    "items": ["operator_armor_legs"]
+  }
+}

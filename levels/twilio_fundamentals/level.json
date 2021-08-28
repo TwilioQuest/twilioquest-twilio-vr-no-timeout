@@ -1,0 +1,19 @@
+{
+  "title": "Twilio API Fundamentals",
+  "description": "Learn the basics of using the Twilio API for messaging and voice. Learn to programmatically send and receive SMS messages, and make and receive voice calls.",
+  "questTitle": "Twilio API Basics",
+  "questDescription": "Configure your API credentials, then check out the voice and messaging APIs!",
+  "mission_icon": "twilio_fundamentals_icon.png",
+  "is_mission": true,
+  "priority": 1,
+  "backgroundMusic": "hackertheme_104771b",
+  "backgroundEffect": {
+    "key": "vr",
+    "options": {}
+  },
+  "flavorTextOverrides": {},
+  "objectives": [
+    "basic_01_twilio_account", 
+    "basic_02_twilio_number"
+  ]
+}
