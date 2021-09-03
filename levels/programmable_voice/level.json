@@ -1,0 +1,16 @@
+{
+  "title": "Twilio Voice API",
+  "description": "Learn the basic operation of Twilio's Programmable Voice APIs.",
+  "is_mission": true,
+  "priority": 3,
+  "backgroundMusic": "hackertheme_104771b",
+  "mission_icon": "voice_icon.png",
+  "prereqs": ["basic_training.basic4"],
+  "flavorTextOverrides": {
+    "readyToMelt": "These chests are packed with <span style=\"color: limegreen\">Malachite</span> ready to be shipped off planet.",
+    "shippingManifest": "This area is designed to simulate a mining base for <span style=\"color: limegreen\">Malachite</span>, a substance that can be melted down to make copper wires for telephone lines. This simulation is pretty detailed - this shipping manifest looks so boring that it feels real.",
+    "freshlyMined": "This base really produces a lot of ore!",
+    "vats": "Looks like some melted <span style=\"color: limegreen\">Malachite</span>. I'm sure this is important for science!",
+    "pipe": "I think melted <span style=\"color: limegreen\">Malachite</span> flows through this valve."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Programmable Voice: Using Different Languages",
+  "description": "Use spoken languages other than English in your voice applications.",
+  "show_ide": false,
+  "validation_fields": [
+    {
+      "name": "prompt",
+      "type": "prompt",
+      "placeholder": "",
+      "label": "When you have configured your phone number as directed in the objective, click the 'HACK' button."
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}

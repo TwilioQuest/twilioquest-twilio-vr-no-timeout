@@ -1,0 +1,16 @@
+{
+  "title": "WhatsApp: Activate Your Development Sandbox",
+  "description": "Get your Twilio account set up to <strong>send and receive WhatsApp messages!</strong>",
+  "show_ide": false,
+  "validation_fields": [
+    {
+      "name": "whatsappPrefix",
+      "type": "text",
+      "placeholder": "Don't forget the punctuation...",
+      "label": "We'll check to see if you've successfully configured your WhatsApp sandbox. Also, let's see if you noticed one important detail - when sending messages to a WhatsAspp number, what prefix do you need to use?"
+    }
+  ],
+  "rewards": {
+    "xp": 200
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Programmable Voice: Collect Input with <Gather>",
+  "description": "Collect user input during a call with the touch tones sent over the wire from your caller's key presses.",
+  "show_ide": true,
+  "validation_fields": [
+    {
+      "name": "prompt",
+      "type": "prompt",
+      "placeholder": "",
+      "label": "Configure your phone number as directed in the objective, then press 'HACK' to validate."
+    }
+  ],
+  "rewards": {
+    "xp": 200
+  }
+}

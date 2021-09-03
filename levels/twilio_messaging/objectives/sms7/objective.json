@@ -1,0 +1,15 @@
+{
+  "title": "Messaging Fundamentals: Respond with a Twilio Function",
+  "description": "Set up a Twilio Function to reply to an incoming SMS.",
+  "show_ide": false,
+  "validation_fields": [
+    {
+      "name": "prompt",
+      "type": "prompt",
+      "label": "Configure your Twilio number as directed in the objective, then click 'HACK' to validate."
+    }
+  ],
+  "rewards": {
+    "xp": 250
+  }
+}

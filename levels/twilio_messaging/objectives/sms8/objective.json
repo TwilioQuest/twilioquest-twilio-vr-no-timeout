@@ -1,0 +1,16 @@
+{
+  "title": "Messaging Fundamentals: The <Redirect> Tag",
+  "description": "Use the <strong>&lt;Redirect&gt;</strong> TwiML tag to transfer control of a message to a different URL.",
+  "show_ide": true,
+  "validation_fields": [
+    {
+      "name": "prompt",
+      "type": "prompt",
+      "placeholder": "",
+      "label": "Configure your Twilio number as instructed in the objective, then click the 'HACK' button."
+    }
+  ],
+  "rewards": {
+    "xp": 150
+  }
+}

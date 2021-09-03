@@ -1,0 +1,17 @@
+{
+  "title": "Programmable Voice: Gather Speech",
+  "description": "Gather speech in a call",
+  "show_ide": false,
+  "validation_fields": [
+    {
+      "name": "prompt",
+      "type": "prompt",
+      "placeholder": "",
+      "label": "Gather some speech, and then press that good old HACK button"
+    }
+  ],
+  "rewards": {
+    "xp": 0,
+    "items": ["bunny_mask"]
+  }
+}

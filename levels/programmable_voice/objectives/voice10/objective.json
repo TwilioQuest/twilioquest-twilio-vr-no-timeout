@@ -1,0 +1,17 @@
+{
+  "title": "Programmable Voice: Forward Calls with <Dial>",
+  "description": "Forward a call to another number using the &lt;Dial&gt; tag.",
+  "show_ide": true,
+  "validation_fields": [
+    {
+      "name": "prompt",
+      "type": "prompt",
+      "placeholder": "",
+      "label": "When you have configured your Twilio number as directed in the objective, click the 'HACK' button."
+    }
+  ],
+  "rewards": {
+    "xp": 200,
+    "items": ["doggo_side_kick"]
+  }
+}

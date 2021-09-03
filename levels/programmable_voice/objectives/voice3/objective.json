@@ -1,0 +1,17 @@
+{
+  "title": "Programmable Voice: Loop Attribute",
+  "description": "Use the <strong>loop</strong> attribute of the <strong>&lt;Say&gt;</strong> tag to repeat your message.",
+  "show_ide": false,
+  "validation_fields": [
+    {
+      "name": "prompt",
+      "type": "prompt",
+      "placeholder": "",
+      "label": "When you've configured your Twilio number as directed in the objective, click the 'HACK' button."
+    }
+  ],
+  "rewards": {
+    "xp": 100,
+    "items": ["surf_glasses"]
+  }
+}

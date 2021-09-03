@@ -1,0 +1,17 @@
+{
+  "title": "WhatsApp: Format Your Text",
+  "description": "Enhance your text body with rich text formatting.",
+  "show_ide": true,
+  "validation_fields": [
+    {
+      "name": "messageSid",
+      "type": "text",
+      "placeholder": "SMXXXX",
+      "label": "Enter the SID of the WhatsApp message that you sent:"
+    }
+  ],
+  "rewards": {
+    "xp": 150,
+    "items": ["ruby_slippers"]
+  }
+}

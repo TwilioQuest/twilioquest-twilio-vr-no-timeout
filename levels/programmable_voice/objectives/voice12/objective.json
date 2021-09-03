@@ -1,0 +1,17 @@
+{
+  "title": "Programmable Voice: <Reject>",
+  "description": "Reject an incoming caller based on their phone number",
+  "show_ide": false,
+  "validation_fields": [
+    {
+      "name": "rejectedNumber",
+      "type": "text",
+      "placeholder": "+12095550136",
+      "label": "The number that your code specifically rejects"
+    }
+  ],
+  "rewards": {
+    "xp": 0,
+    "items": ["orange_flame"]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Twilio Messaging API",
+  "description": "Learn how to send and receive SMS, MMS, and WhatsApp messages from your Twilio account.",
+  "is_mission": true,
+  "priority": 2,
+  "backgroundMusic": "hackertheme_104771b",
+  "mission_icon": "messaging_icon.png",
+  "prereqs": ["basic_training.basic4"],
+  "flavorTextOverrides": {
+    "whatsapp": "Looks like if I want to learn how to send messages with <span class=\"highlight\">WhatsApp</span>, I should explore that isthsmus <span class=\"highlight\">to the right</span>. Hah. Isthsmus. That's a funny word to say.",
+    "sms": "So I should <span class=\"highlight\">cross the bridge</span> to learn more about the <span class=\"highlight\">SMS APIs</span> it seems?",
+    "boxes": "Someone's Amazon order ended up in a funny place...",
+    "seaBreeze": "<i>You open your visor for a moment and taste the salt on the wind coming off the sea. It's hard to believe this is just a simulation...</i>"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Messaging Fundamentals: Set up a Fallback Handler",
+  "description": "Setup a primary fallback for SMS, just in case.",
+  "show_ide": false,
+  "validation_fields": [
+    {
+      "name": "prompt",
+      "type": "prompt",
+      "placeholder": "",
+      "label": "Configure your Twilio number as directed in the Objective and click the 'HACK' button to validate."
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}

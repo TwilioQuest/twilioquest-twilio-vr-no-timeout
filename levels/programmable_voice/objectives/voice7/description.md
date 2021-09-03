@@ -1,0 +1,5 @@
+# &lt;Gather&gt; Round
+
+Use the `<Gather>` tag ([docs](https://www.twilio.com/docs/voice/twiml/gather)) to collect user input via [DTMF](https://www.twilio.com/docs/glossary/what-is-dtmf) tones (touch tones from the keypad). After collecting input, the TwiML returned by the `action` URL for your `<Gather>` tag must then **repeat back** the `Digits` that were entered by the user in a `<Say>` tag.
+
+Code which implements this behavior has been provided for you in the **code editor**. Press <em><i class="fa fa-play"></i></em> in the editor to run the application. You can also complete this challenge with Functions, TwiML Bins, or your own code. Just ensure [your phone number is configured](https://www.twilio.com/console/phone-numbers/<%= env.TQ_TWILIO_NUMBER_SID ? env.TQ_TWILIO_NUMBER_SID.value : '' %>) to use the proper URL.

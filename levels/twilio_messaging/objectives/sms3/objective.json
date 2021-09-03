@@ -1,0 +1,23 @@
+{
+  "title": "Messaging Fundamentals: Status Callbacks",
+  "description": "Configure status callbacks to track message delivery.",
+  "show_ide": true,
+  "validation_fields": [
+    {
+      "name": "messageSid",
+      "type": "text",
+      "placeholder": "SMXXXX",
+      "label": "Enter the SID of your message."
+    },
+    {
+      "name": "lastStatus",
+      "type": "text",
+      "placeholder": "some_status",
+      "label": "Enter the last status you received and printed out to the console:"
+    }
+  ],
+  "rewards": {
+    "xp": 250,
+    "items": ["short_message_sabre"]
+  }
+}

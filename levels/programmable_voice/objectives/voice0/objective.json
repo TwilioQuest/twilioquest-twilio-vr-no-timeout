@@ -1,0 +1,16 @@
+{
+  "title": "Programmable Voice: Hello, World!",
+  "description": "Answer an incoming phone call and use text-to-speech to say \"Hello\".",
+  "show_ide": false,
+  "validation_fields": [
+    {
+      "name": "prompt",
+      "type": "prompt",
+      "placeholder": "",
+      "label": "Configure your Twilio number as directed in the objective, then click the 'HACK' button to validate."
+    }
+  ],
+  "rewards": {
+    "xp": 200
+  }
+}

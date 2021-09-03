@@ -1,0 +1,16 @@
+{
+  "title": "WhatsApp: Send an outbound message",
+  "description": "Write code to send an outbound WhatsApp message!",
+  "show_ide": true,
+  "validation_fields": [
+    {
+      "name": "messageSid",
+      "type": "text",
+      "placeholder": "SMXXXX",
+      "label": "Enter the SID of the WhatsApp message you send:"
+    }
+  ],
+  "rewards": {
+    "xp": 200
+  }
+}

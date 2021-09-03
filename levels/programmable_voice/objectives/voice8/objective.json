@@ -1,0 +1,17 @@
+{
+  "title": "Programmable Voice: Limit Input for <Gather>",
+  "description": "",
+  "show_ide": false,
+  "validation_fields": [
+    {
+      "name": "prompt",
+      "type": "prompt",
+      "placeholder": "",
+      "label": "Limit the digits gathered, and then HACK away!"
+    }
+  ],
+  "rewards": {
+    "xp": 0,
+    "items": ["3_hearts"]
+  }
+}

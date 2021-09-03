@@ -1,0 +1,17 @@
+{
+  "title": "Programmable Voice: Fallback Handlers",
+  "description": "Set up a fallback handler in case your primary handler fails.",
+  "show_ide": false,
+  "validation_fields": [
+    {
+      "name": "prompt",
+      "type": "prompt",
+      "placeholder": "",
+      "label": "Configure your Twilio number's fallback handler for voice, then click 'HACK' to validate it."
+    }
+  ],
+  "rewards": {
+    "xp": 100,
+    "items": ["unicorn_horn"]
+  }
+}

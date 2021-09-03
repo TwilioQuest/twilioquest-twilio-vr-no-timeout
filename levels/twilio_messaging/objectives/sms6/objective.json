@@ -1,0 +1,16 @@
+{
+  "title": "Messaging Fundamentals: Forward an SMS to Another Number",
+  "description": "Use the \"to\" attribute and templating in a TwiML Bin to forward an incoming message to a different number.",
+  "show_ide": false,
+  "validation_fields": [
+    {
+      "name": "prompt",
+      "type": "prompt",
+      "placeholder": "",
+      "label": "Modify the TwiML Bin you are using to respond to messages from your Twilio number as instructed, then click 'HACK'."
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}
