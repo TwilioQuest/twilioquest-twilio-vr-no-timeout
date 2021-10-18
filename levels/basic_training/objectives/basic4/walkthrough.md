@@ -1,6 +1,6 @@
 # Getting a programmable phone number
 
-Navigate to the [phone number management interface](https://www.twilio.com/console/phone-numbers/incoming) in the Twilio console. You may use a phone number in this list to complete this challenge. Click the *+* button to purchase a phone number.
+Navigate to the [phone number management interface](https://www.twilio.com/console/phone-numbers/incoming) in the Twilio console. You may use a phone number in this list to complete this challenge. Click the _+_ button to purchase a phone number.
 
 <center>
 <img src="images/basic_training/buy-number.png"/>
@@ -14,7 +14,7 @@ When you click "Search", you will see a list of available phone numbers. Choose 
 <img src="images/basic_training/search-for-number.png"/>
 </center>
 
-When you buy the phone number, you'll notice that doing so will debit some amount from your Twilio account (using either trial credits or your real funds) on a monthly basis. Remember that for new Twilio accounts, you can use the promo code `TWILIOQUEST` for \$50 USD of free API credits. You can upgrade your account and use this promo code [in the Billing section of the console](https://www.twilio.com/console/billing).
+When you buy the phone number, you'll notice that doing so will debit some amount from your Twilio account (using either trial credits or your real funds) on a monthly basis.
 
 Please note, however, that you can complete TwilioQuest using only your free trial account. [Trial accounts have some restrictions](https://support.twilio.com/hc/en-us/articles/223136107-How-does-Twilio-s-Free-Trial-work-), but should work just fine as you learn the API in TwilioQuest.
 
