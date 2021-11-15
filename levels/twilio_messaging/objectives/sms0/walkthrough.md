@@ -24,7 +24,7 @@ When making an API request to Twilio, in addition to passing along our authentic
 
 You can make a request to [Twilio's REST API](https://www.twilio.com/docs/sms/api) from any programming environment or tool that supports making HTTP requests. Twilio provides a variety of server-side [helper libraries](https://www.twilio.com/docs/libraries) for many common programming languages that make this process easier.
 
-To send an SMS message, you wil interact with the [Message resource](https://www.twilio.com/docs/sms/api/message-resource). Sending an HTTP POST request to this API endpoint will result in creating (and sending) a new message.
+To send an SMS message, you will interact with the [Message resource](https://www.twilio.com/docs/sms/api/message-resource). Sending an HTTP POST request to this API endpoint will result in creating (and sending) a new message.
 
 The following [cURL](https://curl.haxx.se/docs/manual.html) command would (when configured with the necessary parameters instead of placeholders) send a message from your account.
 
