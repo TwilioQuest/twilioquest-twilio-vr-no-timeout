@@ -32,7 +32,7 @@ module.exports = async function(helper) {
         response.status
       }.`;
     }
-    const contentType = response.headers['content-type'];
+    const contentType = response.headers.get('Content-Type');
     if (!contentType.toLowerCase().startsWith('audio')) {
       throw `Oh no, it looks like ${audioUrl} is not an audio file. It is of type "${contentType}"`;
     }
