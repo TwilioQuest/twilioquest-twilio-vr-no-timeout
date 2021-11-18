@@ -17,7 +17,7 @@ Just like when you sent an SMS message, you'll authenticate the request that you
 How you send the request to Twilio's API is up to you. You can use one of Twilio's [helper libraries](https://www.twilio.com/docs/libraries) or the following [cURL](https://curl.haxx.se/docs/manual.html) command, replacing your own credentials and media URL:
 
 ```
-curl -X POST'https://api.twilio.com/2010-04-01/Accounts/AXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/Messages.json' \
+curl -X POST 'https://api.twilio.com/2010-04-01/Accounts/AXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/Messages.json' \
 --data-urlencode "From=+15017122661" \
 --data-urlencode "To=+15017122661" \
 --data-urlencode 'MediaUrl=https://i.ytimg.com/vi/U_JbTHp6uzI/maxresdefault.jpg' \
