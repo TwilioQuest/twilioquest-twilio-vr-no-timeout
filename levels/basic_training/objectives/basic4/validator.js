@@ -44,11 +44,4 @@ module.exports = (helper, callback) => {
   } catch (e) {
     console.log(e);
   }
-
-  // Return after a few seconds if the number isn't found
-  setTimeout(() => {
-    if (!found) {
-      respondWithError();
-    }
-  }, 5000);
 };
